@@ -1,0 +1,31 @@
+.question {
+    width: 500px;
+    margin: 0 auto 10px;
+    border: 1px solid #d7e9e9;
+    padding: 20px;    
+    color: #606060;
+    font-family: monospace;
+    font-size: 16px;
+    
+    &:nth-child(even) {
+        // background: url('../../img/question.png');
+        // position: absolute;
+
+    }
+
+    &:nth-child(odd) {
+        // background: url('../../img/question2.png');
+        // height: 30vh;
+    }
+    
+    &__id {
+        text-align: center;
+        color: rgb(151, 151, 151) ;
+    }
+    
+}
+
+.question div {
+    text-align: left;
+}
+

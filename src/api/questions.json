@@ -1,0 +1,7 @@
+[
+    { "id": 1, "body": "Какой будет результа выр-я: null >= 0", "type": "text" },
+    { "id": 2, "body": "Можно ли инициировать DOM-событие из javascript?", "type": "radio" },
+    { "id": 3, "body": "Сколько параметров можно передать функции ?", "type": "checkbox" },
+    { "id": 4, "body": "Что такое ECMAScript?", "type": "select" },
+    { "id": 5, "body": "1 + 2", "type": "number" }
+]
